@@ -1,0 +1,14 @@
+D:\DEV\C#.net\Premier projet\GestStagiaire\bin\Debug\GestStagiaire.exe.config
+D:\DEV\C#.net\Premier projet\GestStagiaire\bin\Debug\GestStagiaire.exe
+D:\DEV\C#.net\Premier projet\GestStagiaire\bin\Debug\GestStagiaire.pdb
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.csproj.AssemblyReference.cache
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.FCreationStag.resources
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.FMenu.resources
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.Properties.Resources.resources
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.csproj.GenerateResource.cache
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.exe
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.pdb
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.F_Affiche.resources
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.F_Choix.resources
+D:\DEV\C#.net\Premier projet\GestStagiaire\obj\Debug\GestStagiaire.F_AfficheAuto.resources
