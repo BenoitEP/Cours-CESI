@@ -1,0 +1,10 @@
+D:\DEV\C#.net\Premier projet\ExoListes1et2\bin\Debug\ExoListes1et2.exe.config
+D:\DEV\C#.net\Premier projet\ExoListes1et2\bin\Debug\ExoListes1et2.exe
+D:\DEV\C#.net\Premier projet\ExoListes1et2\bin\Debug\ExoListes1et2.pdb
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.csproj.AssemblyReference.cache
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.Form1.resources
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.Properties.Resources.resources
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.csproj.GenerateResource.cache
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.csproj.CoreCompileInputs.cache
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.exe
+D:\DEV\C#.net\Premier projet\ExoListes1et2\obj\Debug\ExoListes1et2.pdb
