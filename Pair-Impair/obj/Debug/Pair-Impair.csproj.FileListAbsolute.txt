@@ -1,0 +1,10 @@
+D:\DEV\C#.net\Premier projet\Pair-Impair\bin\Debug\Pair-Impair.exe.config
+D:\DEV\C#.net\Premier projet\Pair-Impair\bin\Debug\Pair-Impair.exe
+D:\DEV\C#.net\Premier projet\Pair-Impair\bin\Debug\Pair-Impair.pdb
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair-Impair.csproj.AssemblyReference.cache
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair_Impair.Form1.resources
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair_Impair.Properties.Resources.resources
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair-Impair.csproj.GenerateResource.cache
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair-Impair.csproj.CoreCompileInputs.cache
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair-Impair.exe
+D:\DEV\C#.net\Premier projet\Pair-Impair\obj\Debug\Pair-Impair.pdb
