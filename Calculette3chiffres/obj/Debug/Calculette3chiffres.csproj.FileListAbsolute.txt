@@ -1,0 +1,10 @@
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\bin\Debug\Calculette3chiffres.exe.config
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\bin\Debug\Calculette3chiffres.exe
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\bin\Debug\Calculette3chiffres.pdb
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.csproj.AssemblyReference.cache
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.Form1.resources
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.Properties.Resources.resources
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.csproj.GenerateResource.cache
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.csproj.CoreCompileInputs.cache
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.exe
+D:\DEV\C#.net\Premier projet\Calculette3chiffres\obj\Debug\Calculette3chiffres.pdb
