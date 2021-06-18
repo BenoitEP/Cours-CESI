@@ -1,0 +1,10 @@
+D:\DEV\C#.net\Premier projet\Calculette4opé\bin\Debug\Calculette4opé.exe.config
+D:\DEV\C#.net\Premier projet\Calculette4opé\bin\Debug\Calculette4opé.exe
+D:\DEV\C#.net\Premier projet\Calculette4opé\bin\Debug\Calculette4opé.pdb
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.csproj.AssemblyReference.cache
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.Form1.resources
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.Properties.Resources.resources
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.csproj.GenerateResource.cache
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.csproj.CoreCompileInputs.cache
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.exe
+D:\DEV\C#.net\Premier projet\Calculette4opé\obj\Debug\Calculette4opé.pdb
